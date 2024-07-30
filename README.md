@@ -15,9 +15,10 @@
 
 #### 2021
 - **뉴스 요약 프로젝트 [KoBertSum]**
-- **Dacon 주차 수요 예측 AI 경진대회 [CatBoost]**
-- **Kaggle 타이타닉 예측 프로젝트 [Ensemble]**
+- **Dacon 주차 수요 예측 AI 경진대회 [CatBoost]** &nbsp; <a href="https://dacon.io/competitions/official/235745/overview/description"><img src="https://img.shields.io/badge/Dacon-326CAC?style=flat&logoColor=white"/></a>
+- **Kaggle 타이타닉 예측 프로젝트 [Ensemble]** &nbsp; <a href="https://www.kaggle.com/competitions/titanic/overview"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logoColor=white"/></a>
 - **시계열 데이터의 이미지화를 통한 CNN 기반 KOSPI 주가지수 예측 프로젝트 [ResNet]**
+- **Dacon 태양광 발전량 예측 경진대회 [XgBoost]** &nbsp; <a href="https://dacon.io/competitions/official/235680/overview/description"><img src="https://img.shields.io/badge/Dacon-326CAC?style=flat&logoColor=white"/></a>
 
 #### 2020
 - **POSETCH OIBC 태양광 발전량 예측 경진대회 [SVM]**
