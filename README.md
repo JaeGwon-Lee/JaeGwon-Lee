@@ -21,8 +21,11 @@
 - **Dacon 태양광 발전량 예측 경진대회 [XGBoost]** &nbsp; <a href="https://dacon.io/competitions/official/235680/overview/description"><img src="https://img.shields.io/badge/Dacon-326CAC?style=flat&logoColor=white"/></a>
 
 #### 2020
-- **POSETCH OIBC 태양광 발전량 예측 경진대회 [SVM]**
-- **농산물 시세 예측 프로젝트 [ARIMA]**
+- **POSTECH OIBC 태양광 발전량 예측 경진대회 [SVM]** &nbsp; <a href="https://velog.io/@jaegwon-lee/%ED%83%9C%EC%96%91%EA%B4%91-%EB%B0%9C%EC%A0%84%EB%9F%89-%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+- **농산물 시세 예측 프로젝트 [ARIMA]** &nbsp; <a href="https://velog.io/@jaegwon-lee/%EB%86%8D%EC%82%B0%EB%AC%BC-%EC%8B%9C%EC%84%B8-%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+
+#### 2019
+- **COMPAS 김해시 화재 발생 예측 경진대회 [RandomForest]** &nbsp; <a href="https://velog.io/@jaegwon-lee/%ED%99%94%EC%9E%AC-%EB%B0%9C%EC%83%9D-%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
 <br>
 
