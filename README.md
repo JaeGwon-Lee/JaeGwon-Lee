@@ -16,11 +16,11 @@
 #### 2021
 - **뉴스 요약 프로젝트 [KoBertSum]**
 - **Dacon 주차 수요 예측 AI 경진대회 [CatBoost]** &nbsp; <a href="https://dacon.io/competitions/official/235745/overview/description"><img src="https://img.shields.io/badge/Dacon-326CAC?style=flat&logoColor=white"/></a>
-- **Kaggle 타이타닉 예측 프로젝트 [Ensemble]** &nbsp; <a href="https://www.kaggle.com/competitions/titanic/overview"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logoColor=white"/></a>
 - **시계열 데이터의 이미지화를 통한 CNN 기반 KOSPI 주가지수 예측 프로젝트 [ResNet]** &nbsp; <a href="https://velog.io/@jaegwon-lee/Kospi-%EC%A3%BC%EA%B0%80%EC%A7%80%EC%88%98-%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 - **Dacon 태양광 발전량 예측 경진대회 [XGBoost]** &nbsp; <a href="https://velog.io/@jaegwon-lee/Dacon-%ED%83%9C%EC%96%91%EA%B4%91-%EB%B0%9C%EC%A0%84%EB%9F%89-%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a> &nbsp; <a href="https://dacon.io/competitions/official/235680/overview/description"><img src="https://img.shields.io/badge/Dacon-326CAC?style=flat&logoColor=white"/></a>
 
 #### 2020
+- **Kaggle 타이타닉 예측 프로젝트 [Ensemble]** &nbsp; <a href="https://www.kaggle.com/competitions/titanic/overview"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logoColor=white"/></a>
 - **POSTECH OIBC 태양광 발전량 예측 경진대회 [SVM]** &nbsp; <a href="https://velog.io/@jaegwon-lee/%ED%83%9C%EC%96%91%EA%B4%91-%EB%B0%9C%EC%A0%84%EB%9F%89-%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://github.com/JaeGwon-Lee/Projects/tree/main/%ED%83%9C%EC%96%91%EA%B4%91%20%EB%B0%9C%EC%A0%84%EB%9F%89%20%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 - **농산물 시세 예측 프로젝트 [ARIMA]** &nbsp; <a href="https://velog.io/@jaegwon-lee/%EB%86%8D%EC%82%B0%EB%AC%BC-%EC%8B%9C%EC%84%B8-%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://github.com/JaeGwon-Lee/Projects/tree/main/%EB%86%8D%EC%82%B0%EB%AC%BC%20%EC%8B%9C%EC%84%B8%20%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
