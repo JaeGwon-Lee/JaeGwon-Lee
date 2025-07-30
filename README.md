@@ -63,7 +63,8 @@
 
 &nbsp;&nbsp; <a href="https://velog.io/@jaegwon-lee/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%83%9C%EC%96%91%EA%B4%91-%EB%B0%9C%EC%A0%84%EB%9F%89-%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://github.com/JaeGwon-Lee/Projects/tree/main/%ED%83%9C%EC%96%91%EA%B4%91%20%EB%B0%9C%EC%A0%84%EB%9F%89%20%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
-<br><br>
+<br>
+<br>
 
 ## 프로젝트 목록
 #### 2024
