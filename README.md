@@ -1,3 +1,11 @@
+## 관심 분야
+- Recommender System
+- Graph Neural Network
+- Large Language Model
+
+<br>
+<br>
+
 ## 대표 프로젝트
 ### 음악 추천 서비스 Au-Dionysos
 사용자의 요청 사항에 대해 ChatGPT를 활용하여 파악하고, 사용자의 요청 사항과 취향을 동시에 반영하는 GraphSAGE 기반 음악 추천 서비스  
@@ -12,9 +20,9 @@
   - GraphSAGE 모델을 통해 Interaction 정보와 Meta 정보를 통합 학습하여 추천 정확도와 다양성 향상
   - ChatGPT 프롬프트 엔지니어링을 활용하여 사용자의 요청 사항을 키워드로 추출
 - 성과
-  - 음악 추천 서비스의 사용자 만족도를 41%에서 77%로 36% 향상
-  - Two-Stage 추천 파이프라인 설계를 통해 서비스 응답 시간 7초에서 2.7초로 61% 단축
-  - LastFM 데이터(Interaction 중심)는 CF 모델로, Spotify 데이터(Meta 정보 중심)는 CBF 모델로 학습하여 사용자의 취향과 다양성 모두 반영
+  - 음악 추천 서비스의 **사용자 만족도를 41%에서 77%로 36% 향상**
+  - Two-Stage 추천 파이프라인 설계를 통해 **서비스 응답 시간을 7초에서 2.7초로 61% 단축**
+  - LastFM 데이터(Interaction 중심)는 CF 모델로, Spotify 데이터(Meta 중심)는 CBF 모델로 학습하여 취향과 다양성 모두 반영
 
 &nbsp;&nbsp; <a href="https://github.com/JaeGwon-Lee/level2-3-recsys-finalproject-recsys-03"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a> <a href="https://velog.io/@jaegwon-lee/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9D%8C%EC%95%85-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-Au-Dionysos"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
@@ -30,8 +38,8 @@
 - 기술 : KGAT 기반의 추천 시스템 개발 (지식 그래프를 통해 부가 정보 활용, GNN을 통해 지식 그래프 학습)
 - 제안 방법 : Sentence-BERT 모델로 부가 정보를 텍스트 임베딩하고 그래프 임베딩의 초기값으로 사용하여 KGAT 모델 개선
 - 성과
-  - 텍스트 임베딩을 추가했을 때, 기존 KGAT 대비 NDCG 16%, Recall 25% 향상
-  - Cold Start 상황을 가정한 실험에서 기존 KGAT 대비 NDCG 68%, Recall 65% 향상
+  - 텍스트 임베딩을 추가했을 때, 기존 KGAT 대비 **NDCG 16%, Recall 25% 향상**
+  - Cold Start 상황을 가정한 실험에서 기존 KGAT 대비 **NDCG 68%, Recall 65% 향상**
 
 &nbsp;&nbsp; <a href="https://www.riss.kr/link?id=T16834777"><img src="https://img.shields.io/badge/Paper-FF9900?style=flat&logoColor=white"/></a> <a href="https://github.com/JaeGwon-Lee/KGAT-with-TextEmbedding"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
@@ -40,20 +48,21 @@
 ### POSTECH OIBC 태양광 발전량 예측
 
 - 유형 : POSTECH OIBC 태양광 발전량 예측 경진대회
-- 기간 : 2020.07  (1개월)
+- 기간 : 2020.07 (1개월)
 - 팀 구성 : 3인 프로젝트
 - 역할 : 데이터 수집/전처리/분석, 파생변수 생성, SVM 모델 실험 및 평가
-- 성과
+- 기술
   - Open-API와 크롤링으로 추가 데이터를 수집하여 예측 모델 학습에 활용
-  -  계절별/날씨별 파생변수와 자기회귀를 활용하여 SVM 모델 성능 향상
-  -  미래 일사량을 먼저 예측하고 예측한 일사량을 활용해 미래 발전량 예측
-  -  경진대회 우수상(2위) 수상
+  - 계절별/날씨별 파생변수와 자기회귀를 활용하여 SVM 모델 성능 향상
+  - 미래 일사량을 먼저 예측하고 예측한 일사량을 활용하여 미래 발전량 예측
+- 성과
+  - 경진대회 **우수상(2위) 수상**
 
 &nbsp;&nbsp; <a href="https://velog.io/@jaegwon-lee/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%83%9C%EC%96%91%EA%B4%91-%EB%B0%9C%EC%A0%84%EB%9F%89-%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://github.com/JaeGwon-Lee/Projects/tree/main/%ED%83%9C%EC%96%91%EA%B4%91%20%EB%B0%9C%EC%A0%84%EB%9F%89%20%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
-<br>
+<br><br>
 
-## AI 프로젝트 목록
+## 프로젝트 목록
 #### 2024
 - **텍스트 기반 초개인화 음악 추천 서비스 [GraphSAGE]** <a href="https://github.com/JaeGwon-Lee/level2-3-recsys-finalproject-recsys-03"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a> <a href="https://velog.io/@jaegwon-lee/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9D%8C%EC%95%85-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-Au-Dionysos"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 - **영화 추천 프로젝트 [LightGCN]** &nbsp; <a href="https://github.com/JaeGwon-Lee/level2-movierecommendation-recsys-03"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
