@@ -9,8 +9,8 @@
 ## 대표 프로젝트
 ### 음악 추천 서비스 Au-Dionysos
 사용자의 요청 사항에 대해 ChatGPT를 활용하여 파악하고, 사용자의 요청 사항과 취향을 동시에 반영하는 GraphSAGE 기반 음악 추천 서비스  
-> RecSys : Hybrid Recommender System, Feature Embedding, GraphSAGE  
-> NLP : Textual Tag Extraction, Prompt Engineering, ChatGPT  
+> **RecSys** : Hybrid Recommender System, Feature Embedding, GraphSAGE  
+> **NLP** : Textual Tag Extraction, Prompt Engineering, ChatGPT  
 - 유형 : 네이버 부스트캠프 AI Tech 6기 프로젝트
 - 기간 : 2024.01 ~ 2024.03 (3개월)
 - 팀 구성 : 6인 프로젝트 (PM 1명, 추천 2명, 백엔드 2명, 프론트엔드 1명)
@@ -30,8 +30,8 @@
 
 ### GNN 기반 추천 시스템에서 텍스트 부가 정보의 활용 연구
 텍스트 부가 정보를 그래프 임베딩의 초기값으로 활용하여 지식 그래프와 GNN 기반 추천 시스템의 콜드 스타트 성능을 68% 향상시킨 연구  
-> RecSys : Knowledge Graph, Graph Neural Network, Hybrid Recommender System, KGAT  
-> NLP : Text Embedding, Sentence-BERT
+> **RecSys** : Knowledge Graph, Graph Neural Network, Hybrid Recommender System, KGAT  
+> **NLP** : Text Embedding, Sentence-BERT
 - 유형 : 수학/통계학과 데이터사이언스 전공 석사 학위 논문
 - 기간 : 2023.01 ~ 2023.07 (7개월)
 - 목표 : 텍스트 부가 정보 임베딩을 활용하여 GNN 기반 추천 모델의 성능 향상 및 Cold Start 문제 완화
@@ -46,7 +46,10 @@
 <br>
 
 ### POSTECH OIBC 태양광 발전량 예측
-
+태양광 발전량 예측을 위한 데이터를 수집하고 데이터 분석과 피처 엔지니어링을 통해 SVM 모델의 예측 성능을 향상시킨 프로젝트
+> **Data** : Data Analytics, Data Preprocessing, Web Crawling, API Data Collection  
+> **Feature Engineering** : Feature Selection, Derived Variables, Auto-Regressive Variables  
+> **Machine Learning** : SVM, Grid Search  
 - 유형 : POSTECH OIBC 태양광 발전량 예측 경진대회
 - 기간 : 2020.07 (1개월)
 - 팀 구성 : 3인 프로젝트
@@ -56,7 +59,7 @@
   - 계절별/날씨별 파생변수와 자기회귀를 활용하여 SVM 모델 성능 향상
   - 미래 일사량을 먼저 예측하고 예측한 일사량을 활용하여 미래 발전량 예측
 - 성과
-  - 경진대회 **우수상(2위) 수상**
+  - **우수상(2위) 수상**
 
 &nbsp;&nbsp; <a href="https://velog.io/@jaegwon-lee/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%83%9C%EC%96%91%EA%B4%91-%EB%B0%9C%EC%A0%84%EB%9F%89-%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://github.com/JaeGwon-Lee/Projects/tree/main/%ED%83%9C%EC%96%91%EA%B4%91%20%EB%B0%9C%EC%A0%84%EB%9F%89%20%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
