@@ -10,10 +10,10 @@
 <br>
 
 ## 관심 분야
-- **RecSys** (Recommender System)
-- **NLP** (Natural Language Processing)
-- **GNN** (Graph Neural Network)
-- **LLM** (Large Language Model)
+- **RecSys** &nbsp; ( Recommender System )
+- **NLP** &nbsp; ( Natural Language Processing )
+- **GNN** &nbsp; ( Graph Neural Network )
+- **LLM** &nbsp; ( Large Language Model )
 
 <br>
 <br>
