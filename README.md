@@ -73,13 +73,13 @@ BERT 기반 모델을 통해 추출한 가사 키워드를 부가 정보로 활�
 - 팀 구성 : 3인 프로젝트
 - 역할 : 데이터 수집/전처리/분석, 파생변수 생성, SVM 모델 실험 및 평가
 - 기술
-  - Open-API와 크롤링으로 추가 데이터를 수집하여 예측 모델 학습에 활용
-  - 계절별/날씨별 파생변수와 자기회귀를 활용하여 학습 데이터 품질 향상
+  - Open-API와 크롤링을 통한 데이터 수집, 데이터 분석과 시각화
+  - 계절별/날씨별 파생변수와 자기회귀 변수를 활용하여 학습 데이터 품질 향상
   - 미래 일사량을 먼저 예측하고 예측한 일사량을 활용하여 미래 발전량 예측
-  - 변수 선택 실험과 그리드 서치를 활용하여 SVM 모델 튜닝
+  - 반복적인 변수 선택 실험과 그리드 서치를 활용하여 SVM 모델 튜닝
 - 성과
-  - API와 크롤링을 활용한 데이터 수집과 시각화 중심의 데이터 분석으로 **머신러닝 모델 학습에 적합한 데이터셋 구축**
-  - 반복적인 변수 선택 실험과 그리드 서치를 활용하여 **SVM 모델 성능 향상**
+  - 데이터 수집, 분석, 피처 엔지니어링으로 **머신러닝 모델 학습에 적합한 데이터셋 구축**
+  - 변수 선택 실험과 그리드 서치를 활용하여 **SVM 모델 성능 향상**
   - **우수상(2위) 수상**
 
 &nbsp;&nbsp; <a href="https://velog.io/@jaegwon-lee/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%83%9C%EC%96%91%EA%B4%91-%EB%B0%9C%EC%A0%84%EB%9F%89-%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://github.com/JaeGwon-Lee/Projects/tree/main/%ED%83%9C%EC%96%91%EA%B4%91%20%EB%B0%9C%EC%A0%84%EB%9F%89%20%EC%98%88%EC%B8%A1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
