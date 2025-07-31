@@ -1,7 +1,18 @@
+<br>
+
+데이터로 더 나은 사용자 경험을 설계하는 AI 엔지니어입니다.  
+"어떻게 하면 사용자에게 더 나은 경험을 줄 수 있을까?" 라는 질문에 데이터로 답을 찾습니다.  
+16번의 AI 프로젝트를 통해 문제를 해결하고 성과를 창출해왔습니다.  
+기술적 도전을 즐기며 동료와 함께 성장하는 것을 추구합니다. 🚀  
+
+<br>
+<br>
+
 ## 관심 분야
-- Recommender System
-- Graph Neural Network
-- Large Language Model
+- **RecSys** (Recommender System)
+- **NLP** (Natural Language Processing)
+- **GNN** (Graph Neural Network)
+- **LLM** (Large Language Model)
 
 <br>
 <br>
