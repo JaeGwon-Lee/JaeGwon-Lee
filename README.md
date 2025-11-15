@@ -76,7 +76,7 @@ BERT 기반 모델을 통해 추출한 가사 키워드를 부가 정보로 활�
 <br>
 
 ### POSTECH OIBC 태양광 발전량 예측
-데이터를 수집과 분석, 피처 엔지니어링을 통해 데이터셋을 구축하고 변수 선택 실험을 통해 SVM 모델의 성능을 향상시킨 프로젝트  
+데이터 수집, 분석, 피처 엔지니어링을 통해 최적의 데이터셋을 구축하여 SVM 모델의 성능을 향상시킨 프로젝트  
 > **Data** : Data Analytics, Data Preprocessing, Web Crawling, API Data Collection  
 > **Feature Engineering** : Feature Selection, Derived Variables, Auto-Regressive Variables  
 > **Machine Learning** : SVM, Grid Search  
